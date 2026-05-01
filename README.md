@@ -34,17 +34,15 @@ This project bridges the gap between **AI research domains** and **practical hum
 
 ## 🖼️ Demo
 
-### 🎥 Live Demo (Add your GIF here)
+### 🎥 Live Demo
 
 <p align="center">
   <img src="assets/demo.gif" width="80%" />
 </p>
 
-> 💡 _Tip: Record your screen using OBS / ScreenToGif and save as `assets/demo.gif`_
+> Comming Soon...
 
 ---
-
-## 🧪 Badges
 
 <p align="center">
 
@@ -258,9 +256,9 @@ streamlit run main.py
 
 ---
 
-## 💼 Professional Summary (Resume Use)
+<!-- ## 💼 Professional Summary (Resume Use)
 
-> Developed a real-time AI fitness coaching system integrating computer vision (MediaPipe), rule-based biomechanical analysis, LLM-based feedback (Groq API), and voice synthesis (gTTS) within a Streamlit-WebRTC application, featuring authentication and persistent workout tracking.
+> Developed a real-time AI fitness coaching system integrating computer vision (MediaPipe), rule-based biomechanical analysis, LLM-based feedback (Groq API), and voice synthesis (gTTS) within a Streamlit-WebRTC application, featuring authentication and persistent workout tracking. -->
 
 ---
 
